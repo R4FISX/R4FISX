@@ -1,7 +1,25 @@
-<div align="center">
+<h1 align="left">Olá eu sou o R4FISX</h1>
+
+###
+
+<h4 align="left">Olá! Meu nome é R4FISX, sou desenvolvedor com foco em JavaScript e possuo 10 meses de experiência em programação,<br>Atualmente, estou finalizando minha formação na Escola Tech da Alura, onde estou aprimorando meus conhecimentos em Java e Python.  <br>Sempre em busca de aprender e evoluir, estou comprometido em desenvolver soluções criativas e de qualidade para meus e o seus projetos.</h4>
+
+###
+
+<h2 align="left">Sobre MIM</h2>
+
+###
+
+<h6 align="left">📚 Atualmente estou aprendendo: Java e Python na Escola Tech da Alura para expandir minhas habilidades.<br>🎯 Objetivos: Me tornar um desenvolvedor full-stack e criar soluções incríveis que contribuam para a comunidade gamer e tech.<br>🎲 Curiosidade: Além de programar, adoro jogar e passar horas explorando novos mundos virtuais. Se o papo for bom, tô dentro!</h6>
+
+###
+
+<h2 align="left">Tenho afinidade com as linguagens</h2>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -12,23 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=R4FISX&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4FISX&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
