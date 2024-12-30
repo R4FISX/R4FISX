@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Olá! Meu nome é R4FISX, sou desenvolvedor com foco em JavaScript e possuo 10 meses de experiência em programação,<br>Atualmente, estou finalizando minha formação na Escola Tech da Alura, onde estou aprimorando meus conhecimentos em Java e Python.  <br>Sempre em busca de aprender e evoluir, estou comprometido em desenvolver soluções criativas e de qualidade para meus e o seus projetos.</h4>
+<h4 align="left">Olá! Meu nome é R4FISX, sou desenvolvedor com foco em JavaScript e possuo 11 meses de experiência em programação,<br>Atualmente, estou finalizando minha formação na Escola Tech da Alura, onde estou aprimorando meus conhecimentos em Java e Python.  <br>Sempre em busca de aprender e evoluir, estou comprometido em desenvolver soluções criativas e de qualidade para meus e o seus projetos.</h4>
 
 ###
 
