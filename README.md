@@ -50,6 +50,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/R4FISX/R4FISX/output/snake.svg" alt="Snake animation" />
 
 ###
