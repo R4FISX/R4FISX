@@ -34,10 +34,10 @@
   <a href="https://www.twitch.tv/r4fisx__" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="491042444356616192" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="mailto:rafaelrodrgues001@gmail.com" target="_blank">
+  <a href="rafaelrodrgues001@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -52,12 +52,12 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/R4FISX/R4FISX/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/R4FISX/R4FISX/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=22tfpo2gv4oemdejmaamx6cli&unique={true|1|on|yes})
+  <img src="?theme=dark&spin=false&scan=false" alt="Widget with the current Spotify song"  />
 </div>
 
 ###
@@ -65,3 +65,5 @@
 <br clear="both">
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=R4FISX.R4FISX&left_color=black&right_color=black&left_text=Visitas"  />
+
+###
