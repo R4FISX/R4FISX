@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">💻 Desenvolvedor de Software | Especialista em Sistemas & Infraestrutura<br>⚡ Gerente Geral & Desenvolvedor da Rede Armageddon<br>🏆 Maior servidor de Minecraft do Brasil no segmento Survival</p>
+<p align="left">💻 Desenvolvedor de Software | Especialista em Sistemas & Infraestrutura<br>⚡ Gerente Geral & Desenvolvedor da Rede Armageddon<br>🏆 Maior servidor de Minecraft do Brasil no segmento Survival & Skyblock</p>
 
 ###
 
