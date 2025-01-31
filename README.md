@@ -2,6 +2,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="130" src="https://i.imgur.com/yMInxta.png"  />
+
+###
+
 <p align="left">💻 Desenvolvedor de Software | Especialista em Sistemas & Infraestrutura<br>⚡ Gerente Geral & Desenvolvedor da Rede Armageddon<br>🏆 Maior servidor de Minecraft do Brasil no segmento Survival</p>
 
 ###
@@ -17,8 +23,6 @@
 <h2 align="left">🚀 Tecnologias & Habilidades</h2>
 
 ###
-
-<br clear="both">
 
 <p align="left">Linguagens: Java, JavaScript, TypeScript<br>Desenvolvimento de Plugins & Sistemas para Minecraft<br>Automação & Bots para Discord e WhatsApp</p>
 
