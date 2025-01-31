@@ -2,7 +2,7 @@
 
 ###
 
-<h6 align="left">💻 Desenvolvedor de Software | Especialista em Sistemas & Infraestrutura<br>⚡ Gerente Geral & Desenvolvedor da Rede Armageddon<br>🏆 Maior servidor de Minecraft do Brasil no segmento Survival</h6>
+<p align="left">💻 Desenvolvedor de Software | Especialista em Sistemas & Infraestrutura<br>⚡ Gerente Geral & Desenvolvedor da Rede Armageddon<br>🏆 Maior servidor de Minecraft do Brasil no segmento Survival</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">Sou um desenvolvedor apaixonado por tecnologia, com experiência em criação e otimização de sistemas para games e infraestrutura de servidores. Atualmente, atuo como Gerente Geral e Desenvolvedor de Sistemas da Rede Armageddon, onde lidero o desenvolvimento de soluções inovadoras para aprimorar a experiência dos jogadores e garantir a estabilidade da rede. Além disso, estou me aprofundando em C# e Python, estudando essas linguagens há 2 meses para expandir ainda mais minhas habilidades e conhecimentos.</h6>
+<p align="left">Sou um desenvolvedor apaixonado por tecnologia, com experiência em criação e otimização de sistemas para games e infraestrutura de servidores. Atualmente, atuo como Gerente Geral e Desenvolvedor de Sistemas da Rede Armageddon, onde lidero o desenvolvimento de soluções inovadoras para aprimorar a experiência dos jogadores e garantir a estabilidade da rede. Além disso, estou me aprofundando em C# e Python, estudando essas linguagens há 2 meses para expandir ainda mais minhas habilidades e conhecimentos.</p>
 
 ###
 
@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<h6 align="left">Linguagens: Java, JavaScript, TypeScript<br>Desenvolvimento de Plugins & Sistemas para Minecraft<br>Automação & Bots para Discord e WhatsApp</h6>
+<p align="left">Linguagens: Java, JavaScript, TypeScript<br>Desenvolvimento de Plugins & Sistemas para Minecraft<br>Automação & Bots para Discord e WhatsApp</p>
 
 ###
 
@@ -42,6 +42,6 @@
 
 ###
 
-<h6 align="left">📫 Contato:<br>Se deseja entrar em contato ou colaborar em projetos, sinta-se à vontade para me chamar! 🚀</h6>
+<p align="left">📫 Contato:<br>Se deseja entrar em contato ou colaborar em projetos, sinta-se à vontade para me chamar! 🚀</p>
 
 ###
