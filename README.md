@@ -1,51 +1,47 @@
-<h2 align="left">Olá 👋! Me Chamo R4FISX</h2>
+<h1 align="left">👋 Olá! Eu sou o R4FISX</h1>
 
 ###
 
-<p align="left">Sou gerente Geral da Rede Armageddon e Criador de Sistemas</p>
+<h6 align="left">💻 Desenvolvedor de Software | Especialista em Sistemas & Infraestrutura<br>⚡ Gerente Geral & Desenvolvedor da Rede Armageddon<br>🏆 Maior servidor de Minecraft do Brasil no segmento Survival</h6>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+<h2 align="left">📌 Sobre mim</h2>
 
 ###
 
-<img align="left" height="200" src="https://i.imgur.com/yMInxta.png"  />
+<h6 align="left">Sou um desenvolvedor apaixonado por tecnologia, com experiência em criação e otimização de sistemas para games e infraestrutura de servidores. Atualmente, atuo como Gerente Geral e Desenvolvedor de Sistemas da Rede Armageddon, onde lidero o desenvolvimento de soluções inovadoras para aprimorar a experiência dos jogadores e garantir a estabilidade da rede. Além disso, estou me aprofundando em C# e Python, estudando essas linguagens há 2 meses para expandir ainda mais minhas habilidades e conhecimentos.</h6>
+
+###
+
+<h2 align="left">🚀 Tecnologias & Habilidades</h2>
+
+###
+
+<br clear="both">
+
+<h6 align="left">Linguagens: Java, JavaScript, TypeScript<br>Desenvolvimento de Plugins & Sistemas para Minecraft<br>Automação & Bots para Discord e WhatsApp</h6>
 
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/channel/UCS5fBBXn3zs80aPIHM2_TQg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/orodrigs_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/r4fisx__" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="491042444356616192" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="rafaelrodrgues001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
+
+###
+
+<h6 align="left">📫 Contato:<br>Se deseja entrar em contato ou colaborar em projetos, sinta-se à vontade para me chamar! 🚀</h6>
 
 ###
