@@ -1,22 +1,6 @@
 <h1 align="left">👋 Olá! Eu sou o R4FISX</h1>
 
-###
-
-<br clear="both">
-
-<img align="right" height="130" src="https://i.imgur.com/yMInxta.png"  />
-
-###
-
-<p align="left">💻 Desenvolvedor de Software | Especialista em Sistemas & Infraestrutura<br>⚡ Gerente Geral & Desenvolvedor da Rede Armageddon<br>🏆 Maior servidor de Minecraft do Brasil no segmento Survival & Skyblock</p>
-
-###
-
-<h2 align="left">📌 Sobre mim</h2>
-
-###
-
-<p align="left">Sou um desenvolvedor apaixonado por tecnologia, com experiência em criação e otimização de sistemas para games e infraestrutura de servidores. Atualmente, atuo como Gerente Geral e Desenvolvedor de Sistemas da Rede Armageddon, onde lidero o desenvolvimento de soluções inovadoras para aprimorar a experiência dos jogadores e garantir a estabilidade da rede. Além disso, estou me aprofundando em C# e Python, estudando essas linguagens há 2 meses para expandir ainda mais minhas habilidades e conhecimentos.</p>
+<p align="left">Sou um desenvolvedor apaixonado por tecnologia, estou me aprofundando em C# e Python, estudando essas linguagens há 2 meses para expandir ainda mais minhas habilidades e conhecimentos.</p>
 
 ###
 
