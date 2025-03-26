@@ -1,6 +1,6 @@
 <h1 align="left">👋 Olá! Eu sou o R4FISX</h1>
 
-<p align="left">Sou um desenvolvedor apaixonado por tecnologia, estou me aprofundando em C# e Python, estudando essas linguagens há 2 meses para expandir ainda mais minhas habilidades e conhecimentos.</p>
+<p align="left">Sou um desenvolvedor apaixonado por tecnologia, estou me aprofundando em C# e Python, estudando essas linguagens há 4 meses para expandir ainda mais minhas habilidades e conhecimentos.</p>
 
 ###
 
