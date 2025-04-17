@@ -27,7 +27,7 @@ Desenvolvedor apaixonado por criar soluções inovadoras utilizando Java e JavaS
 ```javascript
 function developer() {
   const skills = {
-    code: ["Java", "JavaScript", "TypeScript", "Python"],
+    code: ["Java", "JavaScript", "TypeScript", "React", "Python"],
     tools: ["VSCode", "IntelliJ", "Git"],
     creates: ["Plugins Minecraft", "Bots", "Automações", "APIs"]
   };
