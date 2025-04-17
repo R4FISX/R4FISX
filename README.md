@@ -54,8 +54,6 @@ function developer() {
   </a>
 </div>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=r4fisx&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
