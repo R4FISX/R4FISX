@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Desenvolvedor+Java+%26+JavaScript;Explorando+o+universo+Python;Criador+de+plugins+e+automações" alt="Typing SVG" />
 </div>
 
----
 
 ### 🧙‍♂️ Quem sou eu
 
@@ -44,7 +43,7 @@ function developer() {
 
 > "A programação não é sobre o que você sabe; é sobre o que você pode descobrir."
 
-### 📬 Vamos conversar
+
 
 <div align="center">
   <a href="mailto:seu.email@exemplo.com">
