@@ -46,10 +46,10 @@ function developer() {
 
 
 <div align="center">
-  <a href="mailto:seu.email@exemplo.com">
+  <a href="mailto:rafaelrodrgues002@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-perfil/">
+  <a href="[https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/rafael-rodrigues-rosendo-9b1756321/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
