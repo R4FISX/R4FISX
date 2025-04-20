@@ -52,6 +52,8 @@ function developer() {
   <a href="https://www.linkedin.com/in/rafael-rodrigues-rosendo-9b1756321">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/channel/UCS5fBBXn3zs80aPIHM2_TQg">
+    <img src="https://img.shields.io/badge/youtube-0A66C2?style=for-the-badge&logo=youtube&logoColor=white" />
 </div>
 
 <p align="center">
