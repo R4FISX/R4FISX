@@ -1,43 +1,49 @@
-# 👨‍💻 Rafael Rodrigues Rosendo  
+<h1 align="center">Rafael Rodrigues</h1>
 
-## Sobre mim  
-Sou **desenvolvedor full stack** com foco em **JavaScript** e **TypeScript**, sempre explorando novas tecnologias e boas práticas de desenvolvimento.  
-Nos últimos **4 anos**, atuei fortemente na comunidade de **Minecraft**, onde administro e desenvolvo Treis grandes servidores:  
-- 🌍 **Reis Pixelmon**  
-- 🌌 **Reis Cobblemoon**
-- ☄️ **Armageddon Server**
+<p align="center">
+  Java & JavaScript Developer  
+  <br/>
+  Building scalable systems and digital ecosystems.
+</p>
 
-Minha jornada com programação começou no ecossistema **JavaScript**, mas também venho me aprofundando em **Java** há mais de **1 ano**, criando sistemas, integrações e soluções personalizadas para servidores e aplicações.  
+<p align="center">
+  <a href="https://discord.gg/SEULINK">
+    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/SEUUSER">
+    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/SEUCANAL">
+    <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
----
+## About
 
-## 🚀 Tecnologias & Ferramentas  
-- **Front-end:** React, Next.js, HTML5, CSS3, TailwindCSS  
-- **Back-end:** Node.js, Express, REST APIs, TypeScript, Java  
-- **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
-- **DevOps & Infra:** Docker, Nginx, Cloudflare, GitHub Actions  
-- **Minecraft Development:** Forge/NeoForge (Mods), Bukkit/Spigot/Paper API (Plugins)  
-- **Outros:** Gradle, WebSockets  
+I design and build structured systems focused on performance and scalability.
 
----
+From Minecraft server infrastructure to automation, bots and digital product ecosystems —  
+everything is built with long-term vision.
 
-## 🎮 Experiência na Comunidade Minecraft  
-Atuo como desenvolvedor e gestor de servidores, criando experiências únicas para os jogadores:  
-- Desenvolvimento de **plugins e mods customizados** em Java  
-- Integração de **sistemas web → in-game**  
-- Criação de **eventos mensais, sistemas de economia e lojas virtuais**  
-- Gerenciamento de equipes e comunidades ativas  
+## Stack
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,mysql,git,linux" />
+</p>
 
-## 📈 O que estou construindo atualmente  
-- Novos sistemas para os servidores **Reis Pixelmon** & **Reis Cobblemoon**  
-- Integração de **lojas virtuais** com sistemas in-game  
-- Projetos pessoais em **Next.js** e **TypeScript**  
-- Mods e sistemas server-side para Minecraft (**Forge/NeoForge & Bukkit/Spigot/Paper**)  
+## Activity
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=R4FISX&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4FISX&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"/>
+</p>
 
-## 📫 Contato  
-- GitHub: [github.com/R4FISX](https://github.com/R4FISX)   
-- Discord: `R4FISX`
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=R4FISX&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=aaaaaa"/>
+</p>
+
+## Philosophy
+
+Build with structure.  
+Scale with intelligence.  
+Think long-term.
