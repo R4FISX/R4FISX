@@ -2,168 +2,229 @@
 
 # Rafael Rodrigues
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Java+Developer;Backend+Engineer;Automation+Builder;Digital+Product+Creator;Building+Scalable+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Java+Developer;Computer+Science+Student;Backend+Engineer;Automation+Builder;Digital+Product+Creator;Building+Scalable+Systems" />
 
 <br>
 
-<p>
-  <strong>Java & JavaScript Developer</strong>
-  <br/>
-  Building systems, products and digital ecosystems.
-</p>
+> 🎓 **Computer Science Student at Federal University of Viçosa (UFV)**
+
+<br>
+
+**Java & JavaScript Developer**  
+Building scalable systems, automation tools and digital ecosystems.
 
 <br>
 
 <a href="https://discord.gg/SEULINK">
-  <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/SEUUSER">
-  <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://youtube.com/SEUCANAL">
-  <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </div>
+
 
 ---
 
 # 👨‍💻 About Me
 
-My journey into programming started when I was **17 years old**.
 
-What began as a passion for creating and managing Minecraft servers quickly evolved into something much bigger. I became fascinated by how systems worked behind the scenes and started building plugins, automations, custom integrations and complete infrastructures for online communities.
+My programming journey started in **2023**, when I began creating systems for my own Minecraft servers.
 
-Over the years, I expanded beyond gaming projects and began developing software focused on automation, scalability and user experience.
+At first, my goal was simple: improve the experience of my community.  
+But while creating plugins, managing servers and solving technical problems, I discovered my passion for software development.
 
-Today, my main focus is **Backend Development**, building APIs, automation platforms, digital ecosystems and scalable applications using Java and JavaScript.
+Since then, I expanded into different areas of technology, building Discord bots, automation systems, launchers, APIs and complete digital ecosystems.
 
-I enjoy transforming ideas into products, solving complex problems and designing systems that continue to perform as they grow.
+Today, I focus on **Backend Development**, creating scalable applications using Java and JavaScript, while studying **Computer Science at the Federal University of Viçosa (UFV)**.
 
-> My goal is simple: build technology that scales.
+I enjoy combining software engineering with entrepreneurship — transforming ideas into real products used by real people.
+
+> Started with Minecraft servers.  
+> Evolving through Software Engineering.
+
 
 ---
 
+
+# 🎓 Education
+
+
+<table>
+<tr>
+<td>
+
+🏛️ **Federal University of Viçosa (UFV)**
+
+**Bachelor's Degree in Computer Science**
+
+Currently studying Computer Science while building real-world software products, automation systems and scalable digital platforms.
+
+</td>
+</tr>
+</table>
+
+
+---
+
+
 # 🚀 Featured Projects
+
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 🎮 Gambiarra Launcher
+## 🎮 Gambiarra Launcher
 
-Desktop application focused on game management and automation.
+
+Desktop application focused on game management, automation and user experience.
+
+<br>
 
 ✨ Auto Updates  
-🌎 Multi Language Support  
+🌎 Multi Language System  
 ☁️ Cloud Synchronization  
-🎯 Integrated Support Center  
-⚡ Lightweight & Fast  
-🔧 Automated Tools
+🎯 Support Integration  
+⚡ Performance Focused  
+🔧 Automation Tools  
 
 </td>
+
 
 <td width="50%">
 
-### 🛒 Gambiarra Store
+## 🛒 Gambiarra Store
 
-Digital products ecosystem built around automation.
+
+Digital product ecosystem focused on automation and scalability.
+
+<br>
 
 🤖 Automated Delivery  
-💬 Discord Integrations  
+💳 Payment Integration  
 📦 Product Management  
-💳 Payment Automation  
+💬 Discord Automation  
 📊 Customer Dashboard  
-🚀 Scalable Infrastructure
+🚀 Scalable Infrastructure  
 
 </td>
+
 
 </tr>
 </table>
 
+
 ---
 
-# 🎯 Journey
+
+# 🎯 Developer Journey
+
 
 ```text
-2023 ─ Started programming through Minecraft servers
-2023 ─ Learned Java developing plugins and server systems
-2024 ─ Built Discord bots and automation tools
-2024 ─ Started creating digital products and online businesses
-2025 ─ Expanded into backend development and software architecture
-2026 ─ Building scalable systems, launchers and digital ecosystems
-
-Current Focus:
-→ Java Development
-→ Backend Engineering
-→ Automation Systems
-→ Product Development
-→ Scalable Architectures
+2023
+│
+├── Started programming through Minecraft servers
+├── Learned Java building plugins
+├── Created server infrastructures
+│
+2024
+│
+├── Developed Discord bots
+├── Created automation systems
+├── Started building digital products
+│
+2025
+│
+├── Expanded backend knowledge
+├── Built launchers and platforms
+├── Focused on scalable architectures
+│
+2026+
+│
+└── Software Engineering
+    Backend Development
+    Product Building
+    System Architecture
 ```
 
+
 ---
+
 
 # ⚙️ Core Skills
 
-### Backend
 
-- Java
-- JavaScript
-- Node.js
-- REST APIs
-- Software Architecture
-- System Design
+```yaml
+Backend:
+  - Java
+  - JavaScript
+  - Node.js
+  - REST APIs
+  - System Architecture
 
-### Databases
+Database:
+  - MySQL
+  - PostgreSQL
+  - Data Modeling
 
-- MySQL
-- PostgreSQL
-- Database Modeling
+Infrastructure:
+  - Linux
+  - Git
+  - Docker
+  - Deployments
 
-### Infrastructure
+Development:
+  - Automation Systems
+  - Discord Integrations
+  - Digital Products
+  - Scalable Applications
+```
 
-- Linux
-- Git
-- GitHub
-- Deployment
-- Automation
-
-### Product Development
-
-- Digital Products
-- Discord Integrations
-- Customer Platforms
-- Automation Systems
-- Scalable Applications
 
 ---
+
 
 # 🧰 Technologies
 
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,nodejs,mysql,postgres,git,github,linux,docker,html,css,vscode" />
+<img src="https://skillicons.dev/icons?i=java,javascript,nodejs,mysql,postgres,docker,git,github,linux,html,css,vscode" />
 
 </div>
 
+
 ---
+
 
 # 📊 GitHub Analytics
 
+
 <div align="center">
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4FISX&show_icons=true&hide_border=true&theme=transparent"/>
 
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4FISX&layout=compact&hide_border=true&theme=transparent"/>
+
 
 </div>
 
+
 ---
 
+
 # 🔥 Contribution Streak
+
 
 <div align="center">
 
@@ -171,9 +232,12 @@ Current Focus:
 
 </div>
 
+
 ---
 
+
 # 📈 Development Overview
+
 
 <div align="center">
 
@@ -181,23 +245,31 @@ Current Focus:
 
 </div>
 
+
 ---
 
+
 # 🧠 Philosophy
+
 
 ```text
 Build with structure.
 Scale with intelligence.
 Automate what repeats.
-Think long-term.
+Create things that last.
 ```
+
 
 ---
 
+
 <div align="center">
 
-### "Code is not just about making things work."
+## 🚀 Build. Learn. Improve. Repeat.
 
-### "It's about making things last."
+<br>
+
+"Software is not only about writing code.  
+It's about creating solutions."
 
 </div>
