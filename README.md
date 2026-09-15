@@ -2,274 +2,81 @@
 
 # Rafael Rodrigues
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Java+Developer;Computer+Science+Student;Backend+Engineer;Automation+Builder;Digital+Product+Creator;Building+Scalable+Systems" />
+**Computer Science Student @ UFV**
+**Java & JavaScript Developer**
+
+Building software, learning computer science and turning ideas into code.
 
 <br>
 
-> 🎓 **Computer Science Student at Federal University of Viçosa (UFV)**
-
-<br>
-
-**Java & JavaScript Developer**  
-Building scalable systems, automation tools and digital ecosystems.
-
-<br>
-
-<a href="https://discord.gg/SEULINK">
-<img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/SEUUSER">
-<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/SEUCANAL">
-<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=java,javascript,nodejs,mysql,postgres,git,github,linux" />
 
 </div>
 
+---
+
+## About Me
+
+I'm a **Computer Science student at the Federal University of Viçosa (UFV)** and a developer focused on **Java and JavaScript**.
+
+My journey into programming started by building systems for Minecraft servers, which led me to explore backend development, APIs, automation and software engineering.
+
+Currently, I'm focused on improving my knowledge in **Computer Science**, building personal projects and developing practical solutions through code.
 
 ---
 
-# 👨‍💻 About Me
+## Education
 
-
-My programming journey started in **2023**, when I began creating systems for my own Minecraft servers.
-
-At first, my goal was simple: improve the experience of my community.  
-But while creating plugins, managing servers and solving technical problems, I discovered my passion for software development.
-
-Since then, I expanded into different areas of technology, building Discord bots, automation systems, launchers, APIs and complete digital ecosystems.
-
-Today, I focus on **Backend Development**, creating scalable applications using Java and JavaScript, while studying **Computer Science at the Federal University of Viçosa (UFV)**.
-
-I enjoy combining software engineering with entrepreneurship — transforming ideas into real products used by real people.
-
-> Started with Minecraft servers.  
-> Evolving through Software Engineering.
-
+🎓 **Federal University of Viçosa — UFV**
+Bachelor's Degree in **Computer Science**
 
 ---
 
-
-# 🎓 Education
-
-
-<table>
-<tr>
-<td>
-
-🏛️ **Federal University of Viçosa (UFV)**
-
-**Bachelor's Degree in Computer Science**
-
-Currently studying Computer Science while building real-world software products, automation systems and scalable digital platforms.
-
-</td>
-</tr>
-</table>
-
-
----
-
-
-# 🚀 Featured Projects
-
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🎮 Gambiarra Launcher
-
-
-Desktop application focused on game management, automation and user experience.
-
-<br>
-
-✨ Auto Updates  
-🌎 Multi Language System  
-☁️ Cloud Synchronization  
-🎯 Support Integration  
-⚡ Performance Focused  
-🔧 Automation Tools  
-
-</td>
-
-
-<td width="50%">
-
-## 🛒 Gambiarra Store
-
-
-Digital product ecosystem focused on automation and scalability.
-
-<br>
-
-🤖 Automated Delivery  
-💳 Payment Integration  
-📦 Product Management  
-💬 Discord Automation  
-📊 Customer Dashboard  
-🚀 Scalable Infrastructure  
-
-</td>
-
-
-</tr>
-</table>
-
-
----
-
-
-# 🎯 Developer Journey
-
+## Technologies
 
 ```text
-2023
-│
-├── Started programming through Minecraft servers
-├── Learned Java building plugins
-├── Created server infrastructures
-│
-2024
-│
-├── Developed Discord bots
-├── Created automation systems
-├── Started building digital products
-│
-2025
-│
-├── Expanded backend knowledge
-├── Built launchers and platforms
-├── Focused on scalable architectures
-│
-2026+
-│
-└── Software Engineering
-    Backend Development
-    Product Building
-    System Architecture
+Languages       Java • JavaScript
+Backend         Node.js • REST APIs
+Databases       MySQL • PostgreSQL
+Tools           Git • GitHub • Linux
 ```
 
-
 ---
 
-
-# ⚙️ Core Skills
-
-
-```yaml
-Backend:
-  - Java
-  - JavaScript
-  - Node.js
-  - REST APIs
-  - System Architecture
-
-Database:
-  - MySQL
-  - PostgreSQL
-  - Data Modeling
-
-Infrastructure:
-  - Linux
-  - Git
-  - Docker
-  - Deployments
-
-Development:
-  - Automation Systems
-  - Discord Integrations
-  - Digital Products
-  - Scalable Applications
-```
-
-
----
-
-
-# 🧰 Technologies
-
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,javascript,nodejs,mysql,postgres,docker,git,github,linux,html,css,vscode" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=R4FISX&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4FISX&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
-
 ---
 
-
-# 📊 GitHub Analytics
-
+## Contribution Streak
 
 <div align="center">
 
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=R4FISX&show_icons=true&hide_border=true&theme=transparent"/>
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R4FISX&layout=compact&hide_border=true&theme=transparent"/>
-
+<img src="https://streak-stats.demolab.com?user=R4FISX&theme=transparent&hide_border=true" />
 
 </div>
 
-
 ---
 
-
-# 🔥 Contribution Streak
-
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=R4FISX&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=R4FISX&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 </div>
 
-
 ---
-
-
-# 📈 Development Overview
-
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R4FISX&theme=github_dark"/>
-
-</div>
-
-
----
-
-
-# 🧠 Philosophy
-
-
-```text
-Build with structure.
-Scale with intelligence.
-Automate what repeats.
-Create things that last.
-```
-
-
----
-
-
-<div align="center">
-
-## 🚀 Build. Learn. Improve. Repeat.
-
-<br>
-
-"Software is not only about writing code.  
-It's about creating solutions."
+**Always learning. Always building.**
 
 </div>
